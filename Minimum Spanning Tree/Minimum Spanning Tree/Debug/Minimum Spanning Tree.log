@@ -1,0 +1,37 @@
+﻿Build started 4/4/2014 2:43:14 PM.
+     1>Project "D:\BTP\Minimum Spanning Tree\Minimum Spanning Tree\Minimum Spanning Tree.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt findMST.cpp
+         findMST.cpp
+     1>d:\btp\minimum spanning tree\minimum spanning tree\findmst.cpp(198): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>d:\btp\minimum spanning tree\minimum spanning tree\findmst.cpp(207): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\minimum spanning tree\minimum spanning tree\findmst.cpp(209): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\minimum spanning tree\minimum spanning tree\findmst.cpp(231): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\minimum spanning tree\minimum spanning tree\findmst.cpp(232): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\minimum spanning tree\minimum spanning tree\findmst.cpp(234): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\minimum spanning tree\minimum spanning tree\findmst.cpp(235): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\minimum spanning tree\minimum spanning tree\findmst.cpp(236): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\minimum spanning tree\minimum spanning tree\findmst.cpp(237): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\minimum spanning tree\minimum spanning tree\findmst.cpp(244): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\minimum spanning tree\minimum spanning tree\findmst.cpp(245): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\minimum spanning tree\minimum spanning tree\findmst.cpp(248): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\minimum spanning tree\minimum spanning tree\findmst.cpp(249): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\minimum spanning tree\minimum spanning tree\findmst.cpp(253): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\minimum spanning tree\minimum spanning tree\findmst.cpp(254): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\minimum spanning tree\minimum spanning tree\findmst.cpp(255): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\minimum spanning tree\minimum spanning tree\findmst.cpp(260): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\minimum spanning tree\minimum spanning tree\findmst.cpp(261): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\minimum spanning tree\minimum spanning tree\findmst.cpp(262): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\minimum spanning tree\minimum spanning tree\findmst.cpp(263): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\minimum spanning tree\minimum spanning tree\findmst.cpp(264): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\minimum spanning tree\minimum spanning tree\findmst.cpp(265): warning C4244: 'argument' : conversion from 'unsigned __int64' to '__w64 int', possible loss of data
+     1>d:\btp\minimum spanning tree\minimum spanning tree\findmst.cpp(284): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\BTP\Minimum Spanning Tree\Debug\Minimum Spanning Tree.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\BTP\Minimum Spanning Tree\Debug\Minimum Spanning Tree.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\BTP\Minimum Spanning Tree\Debug\Minimum Spanning Tree.lib" /MACHINE:X86 Debug\findMST.obj
+         Debug\StreamSort_MST.obj
+         Minimum Spanning Tree.vcxproj -> D:\BTP\Minimum Spanning Tree\Debug\Minimum Spanning Tree.exe
+     1>Done Building Project "D:\BTP\Minimum Spanning Tree\Minimum Spanning Tree\Minimum Spanning Tree.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.51

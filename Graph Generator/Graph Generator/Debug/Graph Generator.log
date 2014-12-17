@@ -1,0 +1,87 @@
+﻿Build started 4/16/2014 1:49:57 PM.
+     1>Project "D:\BTP\Graph Generator\Graph Generator\Graph Generator.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt algo1_Approx_factor_Gen.cpp
+         algo1_Approx_factor_Gen.cpp
+     1>d:\btp\graph generator\graph generator\algo1_approx_factor_gen.cpp(101): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\graph generator\graph generator\algo1_approx_factor_gen.cpp(102): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\graph generator\graph generator\algo1_approx_factor_gen.cpp(102): warning C4244: 'argument' : conversion from '__int64' to 'unsigned int', possible loss of data
+     1>d:\btp\graph generator\graph generator\algo1_approx_factor_gen.cpp(104): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\graph generator\graph generator\algo1_approx_factor_gen.cpp(104): warning C4244: 'argument' : conversion from '__int64' to 'unsigned int', possible loss of data
+     1>d:\btp\graph generator\graph generator\algo1_approx_factor_gen.cpp(134): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\graph generator\graph generator\algo1_approx_factor_gen.cpp(135): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\graph generator\graph generator\algo1_approx_factor_gen.cpp(135): warning C4244: 'argument' : conversion from '__int64' to 'unsigned int', possible loss of data
+     1>d:\btp\graph generator\graph generator\algo1_approx_factor_gen.cpp(137): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\graph generator\graph generator\algo1_approx_factor_gen.cpp(137): warning C4244: 'argument' : conversion from '__int64' to 'unsigned int', possible loss of data
+     1>d:\btp\graph generator\graph generator\algo1_approx_factor_gen.cpp(198): warning C4244: 'initializing' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\graph generator\graph generator\algo1_approx_factor_gen.cpp(199): warning C4244: 'initializing' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\graph generator\graph generator\algo1_approx_factor_gen.cpp(200): warning C4244: 'initializing' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\graph generator\graph generator\algo1_approx_factor_gen.cpp(239): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\graph generator\graph generator\algo1_approx_factor_gen.cpp(240): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\graph generator\graph generator\algo1_approx_factor_gen.cpp(240): warning C4244: 'argument' : conversion from '__int64' to 'unsigned int', possible loss of data
+     1>d:\btp\graph generator\graph generator\algo1_approx_factor_gen.cpp(242): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\graph generator\graph generator\algo1_approx_factor_gen.cpp(242): warning C4244: 'argument' : conversion from '__int64' to 'unsigned int', possible loss of data
+     1>d:\btp\graph generator\graph generator\algo1_approx_factor_gen.cpp(243): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\graph generator\graph generator\algo1_approx_factor_gen.cpp(243): warning C4244: 'argument' : conversion from '__int64' to 'unsigned int', possible loss of data
+     1>d:\btp\graph generator\graph generator\algo1_approx_factor_gen.cpp(311): warning C4244: 'argument' : conversion from '__int64' to '__w64 int', possible loss of data
+     1>d:\btp\graph generator\graph generator\algo1_approx_factor_gen.cpp(392): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\graph generator\graph generator\algo1_approx_factor_gen.cpp(401): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\graph generator\graph generator\algo1_approx_factor_gen.cpp(707): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\graph generator\graph generator\algo1_approx_factor_gen.cpp(709): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\graph generator\graph generator\algo1_approx_factor_gen.cpp(743): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\graph generator\graph generator\algo1_approx_factor_gen.cpp(747): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\graph generator\graph generator\algo1_approx_factor_gen.cpp(748): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\graph generator\graph generator\algo1_approx_factor_gen.cpp(750): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\graph generator\graph generator\algo1_approx_factor_gen.cpp(754): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\graph generator\graph generator\algo1_approx_factor_gen.cpp(762): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\graph generator\graph generator\algo1_approx_factor_gen.cpp(769): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\graph generator\graph generator\algo1_approx_factor_gen.cpp(774): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\graph generator\graph generator\algo1_approx_factor_gen.cpp(778): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\graph generator\graph generator\algo1_approx_factor_gen.cpp(784): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\graph generator\graph generator\algo1_approx_factor_gen.cpp(790): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\graph generator\graph generator\algo1_approx_factor_gen.cpp(791): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\graph generator\graph generator\algo1_approx_factor_gen.cpp(793): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\graph generator\graph generator\algo1_approx_factor_gen.cpp(794): warning C4244: 'argument' : conversion from 'unsigned __int64' to '__w64 int', possible loss of data
+     1>d:\btp\graph generator\graph generator\algo1_approx_factor_gen.cpp(797): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\btp\graph generator\graph generator\algo1_approx_factor_gen.cpp(809): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\btp\graph generator\graph generator\algo1_approx_factor_gen.cpp(855): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\program files (x86)\microsoft visual studio 11.0\vc\include\utility(138): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+                 d:\btp\graph generator\graph generator\algo1_approx_factor_gen.cpp(1152) : see reference to function template instantiation 'std::pair<_Ty1,_Ty2>::pair<std::pair<unsigned __int64,_Ty2>&,long double>(_Other1,_Other2 &&,void **)' being compiled
+                 with
+                 [
+                     _Ty1=std::pair<unsigned __int64,unsigned __int64>,
+                     _Ty2=unsigned __int64,
+                     _Other1=std::pair<unsigned __int64,unsigned __int64> &,
+                     _Other2=long double
+                 ]
+                 d:\btp\graph generator\graph generator\algo1_approx_factor_gen.cpp(1152) : see reference to function template instantiation 'std::pair<_Ty1,_Ty2>::pair<std::pair<unsigned __int64,_Ty2>&,long double>(_Other1,_Other2 &&,void **)' being compiled
+                 with
+                 [
+                     _Ty1=std::pair<unsigned __int64,unsigned __int64>,
+                     _Ty2=unsigned __int64,
+                     _Other1=std::pair<unsigned __int64,unsigned __int64> &,
+                     _Other2=long double
+                 ]
+     1>c:\program files (x86)\microsoft visual studio 11.0\vc\include\utility(182): warning C4244: 'initializing' : conversion from 'unsigned __int64' to 'long double', possible loss of data
+                 d:\btp\graph generator\graph generator\algo1_approx_factor_gen.cpp(1152) : see reference to function template instantiation 'std::pair<_Ty1,_Ty2>::pair<std::pair<unsigned __int64,unsigned __int64>,unsigned __int64>(std::pair<_Ty1,unsigned __int64> &&,void **)' being compiled
+                 with
+                 [
+                     _Ty1=std::pair<unsigned __int64,unsigned __int64>,
+                     _Ty2=long double
+                 ]
+                 d:\btp\graph generator\graph generator\algo1_approx_factor_gen.cpp(1152) : see reference to function template instantiation 'std::pair<_Ty1,_Ty2>::pair<std::pair<unsigned __int64,unsigned __int64>,unsigned __int64>(std::pair<_Ty1,unsigned __int64> &&,void **)' being compiled
+                 with
+                 [
+                     _Ty1=std::pair<unsigned __int64,unsigned __int64>,
+                     _Ty2=long double
+                 ]
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\BTP\Graph Generator\Debug\Graph Generator.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\BTP\Graph Generator\Debug\Graph Generator.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\BTP\Graph Generator\Debug\Graph Generator.lib" /MACHINE:X86 Debug\algo1_Approx_factor_Gen.obj
+         Debug\Final.obj
+         Debug\Source.obj
+         Graph Generator.vcxproj -> D:\BTP\Graph Generator\Debug\Graph Generator.exe
+     1>Done Building Project "D:\BTP\Graph Generator\Graph Generator\Graph Generator.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.38

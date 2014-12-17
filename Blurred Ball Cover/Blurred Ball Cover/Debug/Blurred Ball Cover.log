@@ -1,0 +1,26 @@
+﻿Build started 4/16/2014 7:55:07 PM.
+     1>Project "D:\BTP\Blurred Ball Cover\Blurred Ball Cover\Blurred Ball Cover.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt final_MSB_Blurr.cpp
+         final_MSB_Blurr.cpp
+     1>d:\btp\blurred ball cover\blurred ball cover\final_msb_blurr.cpp(34): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\btp\blurred ball cover\blurred ball cover\final_msb_blurr.cpp(45): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\btp\blurred ball cover\blurred ball cover\final_msb_blurr.cpp(85): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\btp\blurred ball cover\blurred ball cover\final_msb_blurr.cpp(91): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\btp\blurred ball cover\blurred ball cover\final_msb_blurr.cpp(98): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\btp\blurred ball cover\blurred ball cover\final_msb_blurr.cpp(147): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\blurred ball cover\blurred ball cover\final_msb_blurr.cpp(193): warning C4018: '>=' : signed/unsigned mismatch
+     1>d:\btp\blurred ball cover\blurred ball cover\final_msb_blurr.cpp(204): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\btp\blurred ball cover\blurred ball cover\final_msb_blurr.cpp(220): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\btp\blurred ball cover\blurred ball cover\final_msb_blurr.cpp(246): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\btp\blurred ball cover\blurred ball cover\final_msb_blurr.cpp(281): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\btp\blurred ball cover\blurred ball cover\final_msb_blurr.cpp(356): warning C4244: '=' : conversion from 'unsigned __int64' to 'int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\BTP\Blurred Ball Cover\Debug\Blurred Ball Cover.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\BTP\Blurred Ball Cover\Debug\Blurred Ball Cover.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\BTP\Blurred Ball Cover\Debug\Blurred Ball Cover.lib" /MACHINE:X86 Debug\final_MSB_Blurr.obj
+         Debug\Source.obj
+         Blurred Ball Cover.vcxproj -> D:\BTP\Blurred Ball Cover\Debug\Blurred Ball Cover.exe
+     1>Done Building Project "D:\BTP\Blurred Ball Cover\Blurred Ball Cover\Blurred Ball Cover.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.01

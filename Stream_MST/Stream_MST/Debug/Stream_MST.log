@@ -1,0 +1,118 @@
+﻿Build started 4/17/2014 9:43:16 PM.
+     1>Project "D:\BTP\Stream_MST\Stream_MST\Stream_MST.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt streamMST.cpp
+         streamMST.cpp
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(68): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(70): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(79): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(81): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(111): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(119): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(120): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(129): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(179): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(180): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(180): warning C4244: 'argument' : conversion from '__int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(182): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(182): warning C4244: 'argument' : conversion from '__int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(213): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(214): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(214): warning C4244: 'argument' : conversion from '__int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(216): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(216): warning C4244: 'argument' : conversion from '__int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(278): warning C4244: 'initializing' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(279): warning C4244: 'initializing' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(280): warning C4244: 'initializing' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(319): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(320): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(320): warning C4244: 'argument' : conversion from '__int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(322): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(322): warning C4244: 'argument' : conversion from '__int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(323): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(323): warning C4244: 'argument' : conversion from '__int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(391): warning C4244: 'argument' : conversion from '__int64' to '__w64 int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(472): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(481): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(572): warning C4244: 'argument' : conversion from '__int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(608): warning C4244: 'argument' : conversion from '__int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(608): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(620): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(624): warning C4244: 'argument' : conversion from '__int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(626): warning C4244: 'argument' : conversion from '__int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(626): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(629): warning C4244: 'argument' : conversion from '__int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(629): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(631): warning C4244: 'argument' : conversion from '__int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(631): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(633): warning C4244: 'argument' : conversion from '__int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(633): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(635): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(638): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(663): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(669): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(672): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(677): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(695): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(697): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(703): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(704): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(705): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(710): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(765): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(807): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(812): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(821): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(822): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(823): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(824): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(827): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(831): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(836): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(838): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(839): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(862): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(894): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(895): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(940): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(941): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\btp\stream_mst\stream_mst\streammst.cpp(951): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\program files (x86)\microsoft visual studio 11.0\vc\include\utility(138): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+                 d:\btp\stream_mst\stream_mst\streammst.cpp(987) : see reference to function template instantiation 'std::pair<_Ty1,_Ty2>::pair<std::pair<unsigned __int64,_Ty2>&,long double>(_Other1,_Other2 &&,void **)' being compiled
+                 with
+                 [
+                     _Ty1=std::pair<unsigned __int64,unsigned __int64>,
+                     _Ty2=unsigned __int64,
+                     _Other1=std::pair<unsigned __int64,unsigned __int64> &,
+                     _Other2=long double
+                 ]
+                 d:\btp\stream_mst\stream_mst\streammst.cpp(987) : see reference to function template instantiation 'std::pair<_Ty1,_Ty2>::pair<std::pair<unsigned __int64,_Ty2>&,long double>(_Other1,_Other2 &&,void **)' being compiled
+                 with
+                 [
+                     _Ty1=std::pair<unsigned __int64,unsigned __int64>,
+                     _Ty2=unsigned __int64,
+                     _Other1=std::pair<unsigned __int64,unsigned __int64> &,
+                     _Other2=long double
+                 ]
+     1>c:\program files (x86)\microsoft visual studio 11.0\vc\include\utility(182): warning C4244: 'initializing' : conversion from 'unsigned __int64' to 'long double', possible loss of data
+                 d:\btp\stream_mst\stream_mst\streammst.cpp(987) : see reference to function template instantiation 'std::pair<_Ty1,_Ty2>::pair<std::pair<unsigned __int64,unsigned __int64>,unsigned __int64>(std::pair<_Ty1,unsigned __int64> &&,void **)' being compiled
+                 with
+                 [
+                     _Ty1=std::pair<unsigned __int64,unsigned __int64>,
+                     _Ty2=long double
+                 ]
+                 d:\btp\stream_mst\stream_mst\streammst.cpp(987) : see reference to function template instantiation 'std::pair<_Ty1,_Ty2>::pair<std::pair<unsigned __int64,unsigned __int64>,unsigned __int64>(std::pair<_Ty1,unsigned __int64> &&,void **)' being compiled
+                 with
+                 [
+                     _Ty1=std::pair<unsigned __int64,unsigned __int64>,
+                     _Ty2=long double
+                 ]
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\BTP\Stream_MST\Debug\Stream_MST.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\BTP\Stream_MST\Debug\Stream_MST.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\BTP\Stream_MST\Debug\Stream_MST.lib" /MACHINE:X86 Debug\old.obj
+         Debug\streamMST.obj
+         Stream_MST.vcxproj -> D:\BTP\Stream_MST\Debug\Stream_MST.exe
+     1>Done Building Project "D:\BTP\Stream_MST\Stream_MST\Stream_MST.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.67
